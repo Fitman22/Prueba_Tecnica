@@ -1,7 +1,7 @@
 # Prueba_Tecnica
  
 # Controls
-  (i) open/close inventary
+  (i) open/close inventary.
   (w/a/s/d) move player
   (shift) run
   (space) jump
