@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a25351ee44e7ca43ad5beff4e2d90b1, type: 3}
+  m_Name: Sword 6
+  m_EditorClassIdentifier: 
+  damage: 9
+  defense: 0
+  weapon: 1
+  mat:
+  - {fileID: 2100000, guid: e3737d1a2f7474c4882fbef32e2bf1de, type: 2}
+  model: {fileID: 4300000, guid: 19b36c0c19af15c47a06700e9ebb309d, type: 3}
+  animationAttack: Attack
+  icon: {fileID: 21300000, guid: d78c26dcf82f2d54495d929e191c4029, type: 3}
